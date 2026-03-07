@@ -10,7 +10,9 @@ This repository contains programs that I write daily to improve my Python skills
 
 ✔ Day 1 – Variables Practice  
 ✔ Day 2 – Number Programs  
-✔ Day 3 – String Practice  
+✔ Day 3 – String Practice
+✔ Day 4 – Loops Practice
+
 
 ---
 
