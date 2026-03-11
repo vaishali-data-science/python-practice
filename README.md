@@ -18,6 +18,8 @@ This repository contains programs that I write daily to improve my Python skills
 
 ✔ Day 6 - Star_patterns
 
+✔ Day 7 - number_patterns
+
 ---
 
 ## 🎯 Goal
